@@ -14,7 +14,6 @@ Rules-Requires-Root: no
 Package: ext-nginx
 Architecture: all
 Depends: nginx
-        ,${shlibs:Depends}
         ,${misc:Depends}
 Description: META-package for install and configure NGINX
  META-package for install and configure NGINX.

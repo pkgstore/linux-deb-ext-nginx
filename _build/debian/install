@@ -1,1 +1,2 @@
-*.conf etc/nginx/conf.d
+conf.d/*.conf etc/nginx/conf.d
+sites-available/*.conf etc/nginx/sites-available
